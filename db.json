@@ -1,0 +1,82 @@
+{
+  "user": [
+    {
+      "id": "c3b4",
+      "username": "nazal",
+      "email": "nazal@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "006a",
+      "username": "anju",
+      "email": "anjuu@",
+      "password": "123"
+    },
+    {
+      "id": "ec4a",
+      "username": "anju",
+      "email": "anju@123",
+      "password": "123"
+    },
+    {
+      "id": "bac0",
+      "username": "Christeena Raine",
+      "email": "987654321",
+      "password": "1234"
+    },
+    {
+      "id": "7d6a",
+      "username": "Anju",
+      "email": "9876544321",
+      "password": "123"
+    },
+    {
+      "id": "bb5d",
+      "username": "hi",
+      "email": "56789",
+      "password": "123"
+    },
+    {
+      "id": "322d",
+      "username": "Anjumol",
+      "email": "98765432",
+      "password": "123"
+    },
+    {
+      "id": "80bc",
+      "username": "Anju",
+      "email": "9876543",
+      "password": "123"
+    },
+    {
+      "id": "17d9",
+      "username": "Christeena",
+      "email": "9876543",
+      "password": "123"
+    },
+    {
+      "id": "2974",
+      "username": "dev",
+      "email": "dev@gmail.com",
+      "password": "dev@123"
+    },
+    {
+      "id": "d00a",
+      "username": "Anju",
+      "email": "anju@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "04e0",
+      "username": "Dev",
+      "email": "12345",
+      "password": "123"
+    },
+    {
+      "id": "d380",
+      "username": "Ansu Scaria",
+      "email": "123456789",
+      "password": "123"
+    }
+  ]
+}
